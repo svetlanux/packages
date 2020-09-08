@@ -1,0 +1,222 @@
+adb#8.1.0r23-1.pkg.tar.xz:626180:58b2968ba6e8c7deb68edc44748520e0:Android Debug Bridge:no:no:no
+aircrack-ng#1.6-1.pkg.tar.xz:453628:986d5cb5ceddeecc948efebac661a65e:WiFi security auditing tools suite:no:no:no
+apparmor-lib#2.13.4-1.pkg.tar.xz:94120:6c41518376a0f22424ec23b71e9074b4:Apparmor libs:no:no:no
+apparmor-utils#2.13.4-1.pkg.tar.xz:550124:7b15fa96f90a35ffcb0bd8ab5e620c6b:Apparmor utils:no:no:no
+audit#2.8.4-1.pkg.tar.xz:356728:07f88e9463ed84494321c513c932a754:Audit tools:no:no:no
+autoconf-2.13#2.13-1.pkg.tar.xz:57476:0e6a7bad353c9664deccfa7942b8d16d:A package of M4 macros to produce scripts to automatically configure sourcecode. (2.13 version):no:no:no
+autoconf-archive#2019.01.06-1.pkg.tar.xz:308464:4f479e20074edffca1e96a99e23d7191:A collection of freely re-usable Autoconf macros.:no:no:no
+avr-gcc#10.1.0-1.pkg.tar.xz:23318012:4fbf97c5df106199b9d11187d8aed5c0:AVR-Toolchain gcc, g++ and avr-libc:no:no:no
+avr-gdb#9.2-1.pkg.tar.xz:1846024:4d5430abe1e5f4ee642c7e8c6924a77a:The GNU Debugger (GDB) for AVR:no:no:no
+binwalk#2.2.0-1.pkg.tar.xz:141112:6ce586baabe34817e8eb1e127fd85fe9:Firmware Analysis Tool:no:no:no
+boehm-gc#8.0.4-1.pkg.tar.xz:180024:89cf2164fb2c50dd6ead74a563206844:Garbage collection and memory leak detection for C and C++:no:no:no
+boost#1.68.0-1.pkg.tar.xz:9931708:f2380b204934df5de4fa51da2af61e2f:Free peer-reviewed portable C++ source libraries.:no:no:no
+bridge-utils#1.7-1.pkg.tar.xz:12236:bd977a3655261d4edaeae427e9b21b22:Linux IEEE 802.1d ethernet bridging utilities:no:no:no
+capstone#4.0.2-1.pkg.tar.xz:1191520:2b90468273675f20ab7bf20fa45a7532:Lightweight multi-platform, multi-architecture disassembly framework:no:no:no
+ccache#3.7.10-1.pkg.tar.xz:61836:43b5cdf8ab23dcb74dc26c7f826e4793:A fast compiler cache.:no:no:yes
+cgit#1.2.3-1.pkg.tar.xz:610216:12842af02c8ed0ad5725e704b138a6dd:A web interface for git written in plain C:no:no:no
+chrpath#0.16-1.pkg.tar.xz:6608:6d0869f9c63c8008c6c529a45f54f397:Change or delete the rpath or runpath in ELF files:no:no:no
+cmake#3.17.3-1.pkg.tar.xz:4522264:a595e206e285bf347bf36db3aef83c39:A cross-platform, open-source make system.:no:no:no
+cmus#2.8.0-1.pkg.tar.xz:164264:d44f03afde7d9ac120ea610b37aeab23:Small and fast music player using the ncurses library:no:no:no
+conky#1.11.5-1.pkg.tar.xz:513208:c53d103a0e4a65c075936ff67a8cae91:Light-weight system monitor:no:no:no
+cpulimit#2.6-1.pkg.tar.xz:9772:2ee22be04952d068b778a4017ed239b8:LimitCPU is a program to throttle the CPU cycles used by other applications.:no:no:no
+cryptsetup#2.3.3-1.pkg.tar.xz:263524:087745d2bdb25a8454d0199b01a913f3:User-friendly dm-crypt/LUKS interface:no:no:no
+cups#2.3.3-1.pkg.tar.xz:5108412:bdfbfd7fa03936e5fea7b3e58ce5b7c0:CUPS - Common UNIX Printing System:no:no:yes
+cups-filters#1.27.5-1.pkg.tar.xz:702644:59ee0e74b3e6392da2e03359ba96e804:Backends and filters for CUPS:no:no:no
+curl#7.71.0-1.pkg.tar.xz:970924:fbfe397badd4fab02c521b3bd2d9b7ab:Utility and a library used for transferring files:no:no:no
+dcron#4.5-3.pkg.tar.xz:21692:1efdd1e83e273d53e5ac3341b134d22b:Multi-user cron daemon:no:no:no
+djvulibre#3.5.27-1.pkg.tar.xz:741772:440561a80bf1afa289b44da4da205621:Suite to create, manipulate and view DjVu ('déjà vu') documents:no:no:no
+dos2unix#7.4.0-1.pkg.tar.xz:25520:f78dd5affc13ecc37b3509c87b915d6a:Dos2unix converts DOS or MAC text files to UNIX format:no:no:no
+double-conversion#3.1.5-1.pkg.tar.xz:41488:0fb3e3a56ebfda0c17ddbf18ff20eed2:Binary-decimal and decimal-binary routines for IEEE doubles:no:no:no
+ed#1.16-1.pkg.tar.xz:17504:0d0e375576d346856a4325cc32a8b3db:An 8-bit clean, POSIX-compliant line editor:no:no:no
+ethtool#5.6-1.pkg.tar.xz:113044:662edebfa979bb574875e9a8ac8bc1dc:Linux net driver diagnostic and tuning tool:no:no:no
+fbreader#0.99.4-1.pkg.tar.xz:1675648:112c14fcff8f9dbd9326947681b10891:Fbreader a book reader:no:no:no
+fcgi#2.4.2-1.pkg.tar.xz:40640:fb87db35ca93f88c03cf2748d7ecfa52:FASTCgi (fcgi) is a language independent, high performant extension to CGI:no:no:no
+fcgiwrap#1.1.0-1.pkg.tar.xz:8096:acdea6a651775590577f6e0005e74602:A simple server for running CGI applications over FastCGI.:no:no:yes
+fuse3#3.9.2-1.pkg.tar.xz:96040:fde3627d3607107268a4b1d4c87f0b59:Interface for userspace filesystems:no:no:no
+gdb#9.2-1.pkg.tar.xz:2246348:930687657acf156d19a103b7af59aac8:The GNU Debugger (GDB):no:no:no
+gdbserver#9.2-1.pkg.tar.xz:137764:1659983cfcdfee2fa01dd87c2f8736c8:The GNU Debugger (GDB):no:no:no
+gdl#3.34.0-1.pkg.tar.xz:82204:bb66d57376f93e51a8a3ed2de60414a2:GNOME Docking Library:no:no:no
+gegl#0.4.24-1.pkg.tar.xz:837132:91c53b7f42e612662dadcf6fc81df0b5:Graph based image processing framework:no:no:no
+gexiv2#0.12.1-1.pkg.tar.xz:52440:167f7650327316bcf1f58baf21a7f543:GObject wrapper around the Exiv2 photo metadata library:no:no:no
+ghostscript#9.52-1.pkg.tar.xz:25926252:cfcf02dc0a17bb5be6952fdc3d4a4981:Postscript interpreter:no:no:no
+gimp#2.10.20-1.pkg.tar.xz:11815588:edaa7bb62b11cf10995fefa79b2c9e1e:The GIMP:no:no:no
+girara#0.3.5-1.pkg.tar.xz:44752:b29fb735c9e71d93b898d99ad6dbfe70:GIRARA AN INTERFACE LIBRARY:no:no:no
+git#2.27.0-1.pkg.tar.xz:3020884:a133d0c87ff5bb11e0fd9ab384d30f42:Directory content manager:no:no:no
+glib-networking#2.64.3-1.pkg.tar.xz:30676:af5b61d1c4ea377030552692dd842a2a:Network-related giomodules for glib.:no:no:yes
+glm#0.9.9.8-1.pkg.tar.xz:158960:32c38a87089a64a503f9b26a285422a7:C++ mathematics library for 3D software based on the OpenGL Shading Language (GLSL) specification:no:no:yes
+gnome-icon-theme#3.12.0-1.pkg.tar.xz:9829932:8c58078f8ef594a0579d1024a622fdbf:A collection of icons used as the basis for GNOME themes:no:no:no
+gnupg#2.2.23-1.pkg.tar.xz:1061892:67e9dcee7eab832c520e98b2f72ca4fc:GNU privacy guard:no:no:yes
+gpgme#1.14.0-1.pkg.tar.xz:422144:a99877457bfb3825c974f97869d9efcd:A C and C++ API for GnuPG.:no:no:no
+gsl#2.6-1.pkg.tar.xz:1088792:3ce9c3f4431d44da145ec4b5cb03345b:A numerical library for C and C++ programmers.:no:no:no
+gtk#2.24.32-1.pkg.tar.xz:2404564:da1eb42295a72ca0f2354079cde6aa0e:A multi-platform toolkit for creating graphical user interfaces:no:no:no
+gutenprint#5.3.3-1.pkg.tar.xz:1920680:d2cf92b6d837ecfc8bbbb84908b90788:Print plugin and ghostscript/cups driver (formerly called gimp-print):no:no:no
+hexedit#1.5-1.pkg.tar.xz:18108:51349a65e217baee88e3c7e349ba95e3:Viewer and editor in hexadecimal or ASCII for files or devices:no:no:no
+htop#2.2.0-1.pkg.tar.xz:56016:52c14c46a8b82769fab0642d5c3cdcdb:an interactive process viewer:no:no:no
+icon-naming-utils#0.8.90-1.pkg.tar.xz:6608:131bebfaf388e936b48c344142b838e8:A shim to maintain compatibility between current desktop icon themes and the icon naming specification.:no:no:no
+icu#67.1-1.pkg.tar.xz:9055464:2c1220dad7449fd5f3af7d090833aee8:Widely used set of C/C++ libraries providing Unicode and Globalization support.:no:no:yes
+imagemagick#7.0.10-28-1.pkg.tar.xz:1851552:2e84f08a0417529ae7b3cc4f3a244140:Image manipulation wizard:no:no:no
+inkscape#1.0-1.pkg.tar.xz:10226504:f5db6e06a13371716e307665d21f5ef4:An open source SVG editor.:no:no:yes
+iotop#0.6-2.pkg.tar.xz:32996:228d988d82e0501d6bbd7b2ecf4b843b:top like program to display I/O load.:no:no:yes
+iw#5.4-1.pkg.tar.xz:68004:9957d061fecbd46864d4ecad9908da67:nl80211 based CLI configuration utility for wireless devices:no:no:no
+json-glib#1.4.4-1.pkg.tar.xz:81856:504424c8bae23cba43cd30d9f31a17d0:serialization and deserialization of JSON objects:no:no:no
+kicad#5.1.6-1.pkg.tar.xz:21114784:6472da0f985cf30cdc974bd41f276baf:Electronic schematic and printed circuit board (PCB) design tools:no:no:no
+kicad-footprints#5.1.5-1.pkg.tar.xz:2390368:e951e9224abfad16be08364c90f9eb65:Official KiCad footprint libraries:no:no:no
+kicad-symbols#5.1.5-1.pkg.tar.xz:1110864:3cff08de545aa834edcc884483f66042:Official KiCad schematic symbol libraries:no:no:no
+liba52#0.7.4-7.pkg.tar.xz:30728:3b7c2bb82e58b8e9fd8ede5cbe3c5df2:Library for decoding ATSC A/52 streams.:no:no:no
+libaio#0.3.112-1.pkg.tar.xz:5044:383f598ade84f7b4e49223f429de1880:Native asynchronous I/O (AIO) support library:no:no:no
+libart_lgpl#2.3.21-1.pkg.tar.xz:55948:939d5b95f4490c7796e44f0e29230d9d:A library for high-performance 2D graphics:no:no:no
+libassuan#2.5.3-1.pkg.tar.xz:30824:c7084d5961689e5500f5d235c18cf1f1:IPC library for the GnuPG components:no:no:no
+libconfig#1.7.2-1.pkg.tar.xz:50584:56e345f395a84eff117d4f1667ee9d87:C/C++ configuration file library.:no:no:no
+libcroco#0.6.13-2.pkg.tar.xz:126440:7cb54ddb63ababf7b4eb15579a2b324a:Generic Cascading Style Sheet parsing and manipulation toolkit.:no:no:no
+libgd#2.3.0-1.pkg.tar.xz:154972:a5d8d899aa92d29c825bee03dde2c21c:Library for the dynamic creation of images:no:no:no
+libksba#1.4.0-1.pkg.tar.xz:79940:43bb9649f60ba1e635e91fe275bfda8d:X.509 and CMS support library:no:no:no
+libmnl#1.0.4-1.pkg.tar.xz:7024:6310647c617d8920d4c55159a47a5e8f:A minimalistic user-space library oriented to Netlink developers.:no:no:no
+libmypaint#1.6.1-1.pkg.tar.xz:58052:8715291fae41c84bcd6aa0cdaee31b6e:libmypaint is a library for making brushstrokes:no:no:no
+libnl#3.5.0-1.pkg.tar.xz:241500:4a0e95560abdbfcef26417227ec9e114:Collection of libraries providing APIs to netlink protocol based Linux kernel interfaces:no:no:no
+libpcap#1.9.1-1.pkg.tar.xz:242764:c8017c54da969003ebc24899c2667031:Packet capture library:no:no:no
+libpipeline#1.5.2-1.pkg.tar.xz:31204:078af910253786667657cecb9141149d:A library for manipulating pipelines of subprocesses in a flexible and convenient way:no:no:no
+libpsl#0.21.0-2.pkg.tar.xz:15432:cdd90f2077da7954a6cc385a3f4043de:Public Suffix List library.:no:no:no
+librsvg#2.40.20-1.pkg.tar.xz:86984:677ad76380d1ae569304e627c02a0e09:SVG rendering library with cairo backend:no:yes:yes
+librsync#2.2.1-1.pkg.tar.xz:30036:9224b339f2ae56bb2f21b524343560b1:Library for delta compression of streams:no:no:no
+libsodium#1.0.18-1.pkg.tar.xz:155100:fa800ce2f0600c6730380fd9392a693e:A modern, portable, easy to use crypto library:no:no:no
+libsoup#2.70.0-1.pkg.tar.xz:311728:8865b205b413af8d66c930d69338a0d9:HTTP library implementation in C.:no:no:no
+libtirpc#1.2.6-1.pkg.tar.xz:165232:60bb0c21e53c4b16f244d09c432cdd6a:Transport Independent RPC library:no:no:no
+libtorrent#0.13.8-1.pkg.tar.xz:526812:013406483cf3ca7aa4a4692e972dcd84:torrent library:no:no:no
+libunibreak#1.0-1.pkg.tar.xz:14948:05cfcf503a2bbb1294b1ecdec0750ce2:Libunibreak is an implementation of the line breaking and word breaking algorithms:no:no:no
+libunistring#0.9.10-1.pkg.tar.xz:412528:7372d2d46497fb1edfbdc15ecd689775:Functions for manipulating Unicode strings and C strings.:no:no:no
+libxml2#2.9.10-1.pkg.tar.xz:1118324:81671a9e59a2ef4cb2487e462cf97c5c:Libraries and utilities used for parsing XML files:no:no:no
+libxslt#1.1.34-1.pkg.tar.xz:204436:c47575dca3c1da6baa240cba206e25a8:XSL Transformations library.:no:no:no
+libyaml#0.2.5-1.pkg.tar.xz:61032:4c3a694af994bf55fcc4dd73c1344f92:A YAML parser and emitter library.:no:no:no
+lsof#4.93.2-2.pkg.tar.xz:93040:7accfe00a265bd4c049c7da809d3b049:list open files:no:no:no
+lua#5.4.0-1.pkg.tar.xz:157016:300d7b8d1ebdd3e2b98717b53f6792ed:A programming language designed for extending applications.:no:no:no
+lxc#4.0.3-1.pkg.tar.xz:837260:d568108767c29ee6cc3db0265818a73c:container namespace cgroup virtualisation for linux guests:no:yes:yes
+macchanger#1.7.0-1.pkg.tar.xz:180680:bb59859297da20cb7dd3cc6db4f02181:GNU MAC Changer is an utility that makes the maniputation of MAC:no:no:no
+man-db#2.9.0-1.pkg.tar.xz:253492:958a3e7d4d68a4654ee3805891be3005:Programs for finding and viewing man pages:no:no:no
+man-pages#5.05-1.pkg.tar.xz:3190564:7d773608404f08e1d5838d6bfbb2c11c:Linux man pages:no:no:no
+meson#0.55.0-1.pkg.tar.xz:971380:89a69a834dcd10b5b1400f7736731291:High productivity build system.:no:no:no
+mplayer#2020-01-28-1.pkg.tar.xz:11056836:2b765c0ce76390090531d45ca2b951b4:Versatile media player and encoder/converter:no:no:no
+mtr#0.93-1.pkg.tar.xz:40800:1fb195b9d13b6446b86ca07843008ffa:Matt's traceroute - network diagnostic tool.:no:no:no
+mutool#1.17.0-1.pkg.tar.xz:20363576:9a89a60fc01333132fe5241f4b971d53:Lightweight PDF and XPS viewer:no:no:no
+mypaint-brushes#1.3.1-1.pkg.tar.xz:1314332:2b78c02fa3e5fcfa6f6e83e2a58cd2f1:Brushes used by libmypaint:no:no:no
+mysql#5.7.30-1.pkg.tar.xz:31283232:a9e172a9583b11d95f70b02c3d6ad0f4:SQL database server:no:no:yes
+newsbeuter#2.9-1.pkg.tar.xz:343996:8ac5a8d75fc1b00d0172d0c3628ece06:Newsbeuter is an RSS/Atom feedreader.:no:no:no
+nginx#1.19.1-1.pkg.tar.xz:239824:1d27f382d8a24c50c8e33f91e7a4655f:An HTTP and reverse proxy server:no:no:no
+ngrep#1.47-1.pkg.tar.xz:23728:8986f46590c9a85ceb484b9980fdaf9b:Network grep utility:no:no:no
+ngspice#32-1.pkg.tar.xz:1754928:83e7c064534e706370dec98a926b75f8:Mixed Mode Mixed Level Circuit Simulator based on Spice3F5:no:no:no
+ninja#1.10.0-1.pkg.tar.xz:64860:90ee38eb7b5c0e6cd7e31f74fd1a32e9:Small build system with a focus on speed:no:no:no
+nmap#7.80-2.pkg.tar.xz:4573928:16af3782f3a39437c355b46e9fb079fb:Utility for network exploration or security auditing:no:no:no
+normalize#0.7.7-2.pkg.tar.xz:32416:99c1647d9c387e9976fd9ce62265f34f:Normalize mp3 and wav files.:no:no:no
+npth#1.6-1.pkg.tar.xz:10124:1dac396e76ab01a7116ed015dab0274f:POSIX library for priority-based and scheduled multi threading:no:no:no
+nspr#4.26-1.pkg.tar.xz:200292:8c52d009b098f1bdd4b9538382e019c5:Netscape Portable Runtime library:no:no:no
+nss#3.54-1.pkg.tar.xz:1322136:294b012002f2191087d95575a14fdff0:Mozilla Network Security Services (NSS):no:no:no
+openal#1.20.1-1.pkg.tar.xz:672228:515eb19fd61e02784ce3690759cb91d8:Cross-platform 3D audio.:no:no:no
+opencascade#7.4.0.1-1.pkg.tar.xz:29180732:d7f327ffc407fa7809a15eb13a8852f4:Open CASCADE Technology, 3D modeling & numerical simulation:no:no:no
+openvpn#2.4.9-1.pkg.tar.xz:242068:2ad0f577beb7f0af2d44468c907291cd:VPN Client:no:no:no
+p5-xml-simple#2.25-2.pkg.tar.xz:61244:51b90eddb48ef3188b84c8f55ded770c:An API for simple XML files:no:no:no
+palemoon#28.12.0_Release-1.pkg.tar.xz:29234468:173e91f05a9e0784c5bc659f721879c4:Pale Moon web browser:no:no:no
+paperkey#1.6-1.pkg.tar.xz:13784:d494ec8ec0627d3215663c5665a0f5db:Archive OpenPGP keys on paper:no:no:no
+password-store#1.7.3-1.pkg.tar.xz:16260:3d8b63205fc3dfb56eec18b99d95c95b:Simple password manager using gpg and ordinary unix directories.:no:no:no
+php-fpm#7.4.7-1.pkg.tar.xz:1550820:128057c559bcc73d3f1cb15fcb78a837:FastCGI Process Manager for PHP:no:no:no
+php-gd#7.4.7-1.pkg.tar.xz:19232:5e871f50d47021c1fd3e031e5078cb4d:GD module for PHP:no:no:no
+php-manual#10082020-1.pkg.tar.xz:8115720:72081e0686593993f169cfec9ec1fb23:PHP Manual:no:no:no
+php-mysql#7.4.7-1.pkg.tar.xz:89032:14a7eb38aeb229efb991b578c26f48f8:MySQL module for PHP:no:no:no
+pinentry#1.1.0-1.pkg.tar.xz:20740:baee3ed3ff4d419766b9fd4bd0f313a5:Secure PinEntry Dialog:no:no:no
+pkg-get#0.4.6-2.pkg.tar.xz:11704:e7b55cc4a486f7f31f186a7774133700:Package management tool for CRUX Linux:no:no:yes
+potrace#1.16-1.pkg.tar.xz:67120:feab3c2e06d85d8c2832ad89e05e56af:Utility for tracing a bitmap (input  PBM,PGM,PPM,BMP; output  EPS,PS,PDF,SVG,DXF,PGM,Gimppath,XFig):no:no:no
+proxychains#4.14-1.pkg.tar.xz:16380:33762ec6ba8f4ee15a3af8e344c0cd43:A hook preloader that allows to redirect TCP traffic of existing dynamically linked programs through one or more SOCKS or HTTP proxies:no:no:no
+prt-get#5.19.3-1.pkg.tar.xz:77196:71da641c993316303424e005a9b17ccf:A utility to simplify ports searching/installing:no:no:no
+pwgen#2.08-1.pkg.tar.xz:10460:7fb6bd87ff5bbce5eef751a6beb22f05:A small GPLed password generator which creates passwords which can be easily memorized by a human:no:no:no
+python#2.7.18-2.pkg.tar.xz:7215240:91964534db5877704a88515e608424e3:Python interpreter, version 2.7:no:no:no
+python-setuptools#45.1.0-1.pkg.tar.xz:417544:dd7544da20032de5146d60cb77631cf1:Easily download, build, install, upgrade, and uninstall Python packages.:no:no:yes
+python3-asn1crypto#1.3.0-1.pkg.tar.xz:157360:4e3a3bdc3cf3a02f6789450e6f7452c2:Python ASN.1 library with a focus on performance and a pythonic API.:no:no:no
+python3-atoma#0.0.17-1.pkg.tar.xz:19024:fe91ba876fe358389097f530daa66641:Atom, RSS and JSON feed parser for Python 3:no:no:no
+python3-attrs#19.3.0-1.pkg.tar.xz:50888:b11f21601fa3ab41eb98ec43349c9b37:python classes without boilerplate.:no:no:no
+python3-babel#2.8.0-1.pkg.tar.xz:5160908:bbd527ffc6a92b2ae18c99fa3a5ef7aa:A collection of tools for internationalizing Python applications:no:no:no
+python3-beautifulsoup4#4.9.1-1.pkg.tar.xz:164788:7fb55e8f4ce9396c7bded272f901d9f2:Python HTML/XML Parser.:no:no:no
+python3-cffi#1.14.0-1.pkg.tar.xz:195560:b186c84a42c3462a1ab90d98a52e77e7:Foreign Function Interface for Python calling C code.:no:no:no
+python3-chardet#3.0.4-2.pkg.tar.xz:143820:120477a58a500da2e33c28cf3bd0028f:Python module for character encoding auto-detection.:no:no:no
+python3-cryptography#2.9.2-1.pkg.tar.xz:297364:db1967739f47c13f87d4a77660577c64:A package designed to expose cryptographic recipes and primitives to Python developers.:no:no:no
+python3-cython#0.29.21-1.pkg.tar.xz:1880056:366a018ca35816e28f97baf6f76062e6:C extensions for Python.:no:no:no
+python3-dateutil#2.8.1-1.pkg.tar.xz:256668:be637c9678b1785474342ffebcc802e6:Provides powerful extensions to the standard datetime module:no:no:no
+python3-defusedxml#0.6.0-1.pkg.tar.xz:25336:588f3ec76658d633ed9cdf2b02821e07:XML bomb protection for Python stdlib modules:no:no:no
+python3-feedparser#5.2.1-1.pkg.tar.xz:86140:8ee533f0815ffa9687d890b8ffc8ecfb:Parse RSS and Atom feeds in Python:no:no:no
+python3-idna#2.10-1.pkg.tar.xz:62820:f25445c5c40bcc8b902129849da6151e:Internationalized Domain Names in Applications (IDNA).:no:no:no
+python3-jinja#2.11.2-1.pkg.tar.xz:189520:d1dd3a64a3c31171aec547632124fd73:A simple pythonic template language written in Python:no:no:no
+python3-mako#1.1.3-1.pkg.tar.xz:113516:93160bab3ce87e5f9f013361573ef8db:A template library written in Python.:no:no:no
+python3-markupsafe#1.1.1-1.pkg.tar.xz:18192:6792f982bf983c619ceda16e9207cbd2:Implements a XML/HTML/XHTML Markup safe string for Python.:no:no:no
+python3-opengl#3.1.5-1.pkg.tar.xz:1145672:4513c82172bc6897e14774d30e0ba63b:The cross platform Python binding to OpenGL and related APIs:no:no:no
+python3-packaging#20.4-1.pkg.tar.xz:45616:ba512d7edc0d8bb98d247dac295337cc:Core utilities for Python packages.:no:no:no
+python3-pip#20.1.1-1.pkg.tar.xz:1721468:cb31d5f357960b96142fb80b2cf205aa:A tool for installing and managing Python packages.:no:no:no
+python3-pycparser#2.20-1.pkg.tar.xz:162372:597d3ff3ae3c9eaa3fbe636eff0dfec9:C parser and AST generator written in Python.:no:no:no
+python3-pygments#2.6.1-1.pkg.tar.xz:1162280:641238423d1b24a4db1605d5ac5cacf6:Python syntax highlighter:no:no:no
+python3-pyopenssl#19.1.0-1.pkg.tar.xz:74640:8afaddc8ab59af548e3a1c7b40a3ec9c:Python interface to the OpenSSL library.:no:no:no
+python3-pyparsing#2.4.7-1.pkg.tar.xz:108912:b0abaeaeb495ba9049d2175b2a5063fc:Python parsing module.:no:no:no
+python3-pypeg2#2.15.2-1.pkg.tar.xz:30208:3a6aaaba61eb3039f608d69c60bd8735:An intrinsic PEG Parser-Interpreter for Python:no:no:no
+python3-pyqt-builder#1.4.0-1.pkg.tar.xz:3669924:6c12c8862f3a54322f33f1990b668d0d:PyQt-builder is the PEP 517 compliant build system for PyQt:no:no:no
+python3-pyqt5#5.15.0-1.pkg.tar.xz:2608824:0db41ad51d00b9b34e189c9e66a7cb30:Python bindings for the QT5 toolkit:no:no:no
+python3-pyqt5-sip#12.8.0-1.pkg.tar.xz:39140:690a9607b759583b17c1026ad5145eb4:The sip extension module provides support for the PyQt5 package.:no:no:no
+python3-pyqtwebengine#5.15.0-1.pkg.tar.xz:74108:17624c21ad828c5218128311d8b2e9d8:Python 3 bindings for QtWebEngine:no:no:no
+python3-pytz#2020.1-1.pkg.tar.xz:141764:3b65ea0d493d6d3fe21ee7410e44c5ef:World timezone definitions, modern and historical:no:no:no
+python3-requests#2.24.0-1.pkg.tar.xz:77088:07fb4162ad13a70b0dfd25be4cd72b23:Python HTTP for Humans.:no:no:no
+python3-setuptools-scm#4.1.2-1.pkg.tar.xz:33760:0dd24184db88f46d7f0da0e3aa148c4c:Handles managing your python package versions in scm metadata.:no:no:no
+python3-six#1.15.0-1.pkg.tar.xz:18360:8e85ae1b785002f1322d9f6996f42b02:Python 2 and 3 compatibility utilities.:no:no:no
+python3-soupsieve#2.0.1-1.pkg.tar.xz:52344:44790b2a6f78a78605b60ef65b461540:A CSS4 selector implementation for Beautiful Soup:no:no:no
+python3-toml#0.10.1-1.pkg.tar.xz:26768:8a80a0cd73d7ca3b1f917fa1190c7abc:A Python library for parsing and creating TOML:no:no:no
+python3-urllib3#1.25.9-1.pkg.tar.xz:158964:54f38270d356641705946ff0cf6f296e:HTTP library with thread-safe connection pooling and file post support.:no:no:no
+python3-wxpython#4.1.1a1.dev4919+57702fa7-1.pkg.tar.xz:11778980:81d2a60d4c0db18ddf2bf57ab650b6bd:Cross-platform GUI toolkit:no:no:no
+python3-yaml#5.3.1-1.pkg.tar.xz:148656:162fea5567a88de548c5bf636879cd46:Python bindings for YAML, using fast libYAML library:no:no:no
+qemu#4.2.0-1.pkg.tar.xz:57700668:3d322af7618820e86b6166a9fc22f19a:Fast CPU emulator and virtualizer for all supported platforms:no:no:no
+qpdf#10.0.1-1.pkg.tar.xz:863740:93dcfe53f22a2740eaa054ed29ccde13:Utility that does structural, content-preserving transformations on PDF files:no:no:no
+qrencode#4.1.0-1.pkg.tar.xz:30664:b1bf72fdcc15925614ee99942c1ca65a:C library for encoding data in a QR Code symbol.:no:no:no
+qt-creator#4.13.0-1.pkg.tar.xz:17291640:43482b4f4db448bcc150240bfe94e2f7:A cross-platform Qt IDE:no:no:no
+qt5#5.15.0-1.pkg.tar.xz:45400060:7479d26d2434ce5203f12f293d825520:Qt Free Edition, version 5.x.:no:no:no
+qtwebengine#5.15.0-1.pkg.tar.xz:41779904:4c95557c3826d0e4d3f276d4c4db4c47:Provides support for web applications using the Chromium browser project.:no:no:no
+qutebrowser#1.13.0-1.pkg.tar.xz:1147892:f45590222abc90c4d0d0a03ae221cbba:A keyboard-driven, vim-like browser based on PyQt5:no:no:no
+radare2#4.5.0-1.pkg.tar.xz:5091440:bdeea9d659b6529118582ad038462d33:UNIX-like reverse engineering framework and command-line toolset:no:no:no
+rdiff#2.3.1-1.pkg.tar.xz:5436:dfdd7238d969182f51d3cdc80249e558:Compute and apply signature-based file differences:no:no:no
+rdiff-backup#2.0.3-1.pkg.tar.xz:245548:dc9a1001e69d7156b61ae296635faf50:Local/remote mirroring+incremental backup:no:no:no
+rtorrent#0.9.8-1.pkg.tar.xz:420076:9299fefc9ae5674a447802e84d5bcd90:Ncurses BitTorrent client based on libTorrent with vi like keybindings and color patch:no:no:no
+sasquatch#4.3-1.pkg.tar.xz:89416:fb7aaba4013005b04f57624952299d3f:The sasquatch project is a set of patches to the standard unsquashfs utility.:no:no:no
+scrot#1.3-1.pkg.tar.xz:14028:39e25f90509ec600a599f1ec8616c7e7:Commandline screen capture.:no:no:no
+sdl2_image#2.0.5-1.pkg.tar.xz:72592:c21aa5f8590f4b12e45c87037717c2aa:SDL_image is an image file loading library.:no:no:no
+sdl2_mixer#2.0.4-3.pkg.tar.xz:69768:8615e6bb400d79cb8964eaf079cea29b:A sample multi-channel audio mixer library.:no:no:no
+simulavr#1.1.0-1.pkg.tar.xz:319668:e563d1d6c2976492e4847994b660fecf:A simulator for the Atmel AVR family of microcontrollers.:no:no:no
+simulide#0.3.12-SR8-1.pkg.tar.xz:1610556:399acb11f726fc34d6f987888dd46ac7:SimulIDE is a simple real time electronic circuit simulator:no:no:no
+sip#4.19.23-1.pkg.tar.xz:136084:9b1e639d76fba23bfaf27ce833cfca28:A tool that makes it easy to create Python bindings for C and C++ libraries:no:no:no
+sip5#5.3.0-1.pkg.tar.xz:260348:b763f7bcd260793a565b6e2369f32104:A tool that makes it easy to create Python bindings for C and C++ libraries:no:no:no
+socat#1.7.3.4-1.pkg.tar.xz:134388:85e0992e4ebec20ca5d1bdaa856da574:SOcket CAT - netcat-like utility with many enhancements:no:no:no
+sshfs#3.7.0-1.pkg.tar.xz:29148:6f8144c478fca46e180d98397dc51dd2:Remote filesystem in userspace using SSH:no:no:no
+stfl#0.24-1.pkg.tar.xz:32272:aef3a5b846c8d88e3c4548272793c0de:Library which implements a curses-based widget set for text terminals:no:no:no
+strace#5.7-1.pkg.tar.xz:229736:35783258bd4eb4fc94bdae8d70dd7f05:Programs that show the differences between files or directories:no:no:no
+stress#1.0.4-1.pkg.tar.xz:11080:5b14c49c6b7847b79210b87f281fbb9a:CPU, IO, Memory benchmark tool:no:no:no
+sudo#SUDO_1_9_1-1.pkg.tar.xz:512668:2a7b7c3250d78312ccb57705db527aa9:Programs that show the differences between files or directories:no:no:no
+swig#4.0.2-1.pkg.tar.xz:864628:8a3a31614ac2a8748d4d34bb1b7c2130:A tool to create language bindings:no:no:no
+sysfsutils#2.1.0-2.pkg.tar.xz:28724:35c6749f93b4adf9f858d44d313e97a3:System Utilities Based on Sysfs:no:no:no
+tcl#8.6.10-1.pkg.tar.xz:2503844:c6bacaf0f64ac071fd3c9a44caa0dbf0:The Tcl scripting language.:no:no:no
+tcpdump#4.9.3-1.pkg.tar.xz:275736:15d37c65ac75ba90326907096a8a6f7c:Network sniffer with command line interface:no:no:no
+timesync#1.0-1.pkg.tar.xz:2460:e3f9d8fce0e5595951ffb7223b7919af:Time synchronization over http(s):no:no:no
+tk#8.6.10-1.pkg.tar.xz:1321376:90daacb5e003ad3934953fe4d8191ae5:A GUI toolkit for TCL.:no:no:no
+tmux#3.1b-1.pkg.tar.xz:233024:81b71387c24332411c776eeca604ddfc:Terminal multiplexer like screen:no:no:no
+tor#4.3.6-1.pkg.tar.xz:2185728:9601cd42f112e150540458cb28d665aa:TOR service:no:no:no
+torsocks#2.3.0-1.pkg.tar.xz:65440:f463d90f5f3e46fe210a047491cc4383:Wrapper for torify applications:no:no:no
+toxcore#0.2.12-1.pkg.tar.xz:187380:555a01d3fe02dd1e9ffd6ac97b275fb1:The future of online communications:no:no:no
+toxic#0.8.3-1.pkg.tar.xz:848032:a335ea1adcca7fc02b6e58fde26b1b96:An ncurses-based Tox client:no:no:no
+trafshow#5.2.3-1.pkg.tar.xz:37860:229d6599770904e8240cab35faaa75b0:Full screen network monitoring:no:no:no
+tree#1.8.0-1.pkg.tar.xz:27456:afbf5dbb938b0ccb5326208ecfcaf7fd:Display directory tree:no:no:no
+tripwire#2.4.3.7-1.pkg.tar.xz:529072:eeb38e181784bf2cfa9db911d171c8cf:Open Source Tripwire:no:no:no
+unrar#5.9.4-1.pkg.tar.xz:102236:c7723013cd93717c3906e09870dcb303:Extracts RAR archives:no:no:no
+unzip#6.0-7.pkg.tar.xz:109720:c9c9f2c5f1678fbc205f953b687527c2:Decompress utility for zipfiles:no:no:no
+usbutils#012-1.pkg.tar.xz:226568:f5ee15a35a3a04b5533ee72d192f5e14:pciutils-like utilities for USB:no:no:no
+valgrind#3.16.1-1.pkg.tar.xz:3582044:e92ceb4fc82a9506a655523c7e9a0891:A debugging and profiling system for Linux programs:no:no:no
+vifm#0.10.1-2.pkg.tar.xz:343524:bc651f7668e12bf29944172317e0c1b1:A ncurses based file manager with vi like keybindings:no:no:no
+vlc#3.0.11-1.pkg.tar.xz:4368940:995b1221cf60d8946d95de2410fbb8e1:The cross-platform media player and streaming server:no:yes:yes
+w3m#0.5.3-37-1.pkg.tar.xz:198328:e18e2b604c438094f6694e1da3e97e03:Pager that can also be used as a text-based web browser:no:no:no
+weechat#2.9-1.pkg.tar.xz:1037364:063af8f940754a30031ac2a4657ccf22:WeeChat is a fast, light and extensible chat client, with a text-based user interface.:no:no:no
+wxgtk3#3.1.4-1.pkg.tar.xz:5287188:489f8d07c64eba8d31bfde806fb5f094:GTK+3 implementation of wxWidgets API for GUI:no:no:no
+yasm#1.3.0-2.pkg.tar.xz:390924:8430dafcc47ffcb80d07cac02b35ddbc:A complete rewrite of the NASM assembler under the new BSD License:no:no:no
+zathura#0.4.6-1.pkg.tar.xz:96680:31023100ad16a82a327180e1553f1085:Zathura a document viewer:no:no:no
+zathura-djvu#0.2.9-1.pkg.tar.xz:7020:7068d85873d72405e4ffaf51e2c83087:DjVu support for zathura:no:no:no
+zathura-pdf#0.3.0-1.pkg.tar.xz:4964:9bbb42f7839f09921dec994bc9fbd377:PDF support for zathura:no:no:no
+zbar#0.23-1.pkg.tar.xz:148560:056d55b669ae0f93fc8c95b209a37467:Barcode reading library and utility:no:no:no
+zip#3.0-2.pkg.tar.xz:129252:9e1554d2adb459e2c8963053e1b5dda2:Compression and file packaging/archive utility:no:no:no
+zsh#5.8-1.pkg.tar.xz:2447956:2a9652634414c23d924325f1d0f7f523:Very powerfull shell:no:no:no
