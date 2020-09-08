@@ -1,0 +1,86 @@
+
+#!/bin/bash
+#
+# PKGINST: pre-post install scripts for CRUX packages
+dbus_post_install() {
+#!/bin/sh
+dbus-uuidgen --ensure
+}
+
+glib_post_install() {
+#!/bin/sh
+# compile needed glib schemas
+glib-compile-schemas /usr/share/glib-2.0/schemas
+
+}
+
+gtk3_post_install() {
+#!/bin/sh
+# compile needed glib schemas
+glib-compile-schemas /usr/share/glib-2.0/schemas
+
+}
+
+libinput_post_install() {
+#!/bin/sh
+
+/sbin/udevadm hwdb --update
+
+}
+
+librsvg_post_install() {
+#!/bin/sh
+
+gdk-pixbuf-query-loaders --update-cache
+
+# End of file
+}
+
+pulseaudio_post_install() {
+#!/bin/sh
+# compile needed glib schemas
+glib-compile-schemas /usr/share/glib-2.0/schemas
+
+}
+
+shared_mime_info_post_install() {
+#!/bin/sh
+
+update-mime-database /usr/share/mime
+
+# End of file
+}
+
+xorg_font_bitstream_100dpi_post_install() {
+#!/bin/sh
+
+mkfontdir /usr/share/fonts/X11/100dpi
+mkfontscale /usr/share/fonts/X11/100dpi
+}
+
+xorg_font_bitstream_type1_post_install() {
+#!/bin/sh
+
+mkfontdir /usr/share/fonts/X11/Type1
+mkfontscale /usr/share/fonts/X11/Type1
+fc-cache
+}
+
+xorg_font_dejavu_ttf_post_install() {
+#!/bin/sh
+
+mkfontdir /usr/share/fonts/X11/TTF
+mkfontscale /usr/share/fonts/X11/TTF
+fc-cache
+}
+
+xorg_font_misc_misc_post_install() {
+#!/bin/sh
+
+mkfontdir /usr/share/fonts/X11/misc
+mkfontscale /usr/share/fonts/X11/misc
+}
+
+
+
+if [ ! -z "$1" ]; then $1; fi

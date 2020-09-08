@@ -1,0 +1,170 @@
+alsa-lib#1.2.3.2-1.pkg.tar.xz:383620:82611dd7db06fee546c77524191c4d0b:ALSA libraries:no:no:no
+alsa-utils#1.2.3-1.pkg.tar.xz:954852:21cb1b99fe212cf84959551dc83bd44f:ALSA utils:no:no:yes
+at-spi2-atk#2.34.2-1.pkg.tar.xz:44312:1f8933322a41e18c3e18906b41ee989d:atk to at-spi2 bridge library:no:no:no
+at-spi2-core#2.36.0-1.pkg.tar.xz:146884:c2ec79bc882d13a0ba6a236c31f6c5c6:Interface for atk:no:no:no
+atk#2.36.0-1.pkg.tar.xz:137456:09632c0acfefd8b79e1f8c89ce6782c9:A set of interfaces for accessibility:no:no:no
+atkmm#2.28.0-1.pkg.tar.xz:79180:a6f464f40421bd09db03d970b0be50f4:C++ interface for atk:no:no:no
+babl#0.1.78-1.pkg.tar.xz:234328:62fe336e019e7a0ae7d034364f6eb128:Dynamic, any to any, pixel format translation library:no:no:no
+cairo#1.16.0-2.pkg.tar.xz:716624:9c75ebcb3b6d2476df345a11fe0d017b:A 2D graphics library with support for multiple output devices:no:no:no
+cairomm#1.12.2-1.pkg.tar.xz:76008:dca143354b23b2bddea062cce3b493aa:C++ wrapper for the cairo graphics library.:no:no:no
+dbus#1.12.20-1.pkg.tar.xz:269968:136d73bfbc2227ee8c5107e2aa58f7b1:A message bus system:no:yes:no
+dmenu#4.9-1.pkg.tar.xz:12844:2c15867e6dba692654ab1e18f3909996:dynamic menu, originally designed for dwm (with xft support):no:no:no
+exiv2#0.27.3-1.pkg.tar.xz:977560:8002f4f03ff6cfe7bfff2995fcea8191:Exif and Iptc metadata manipulation library and tools.:no:no:no
+fdk-aac#2.0.1-1.pkg.tar.xz:797640:7701509e9b0e7c177e538a8aa99082a5:Library of OpenCORE Framework implementation of Adaptive Multi Rate Narrowband and Wideband (AMR-NB and AMR-WB) speech codec.:no:no:no
+feh#3.4.1-1.pkg.tar.xz:106344:d14700f5a8947441b86fb8739a667b22:A fast commandline-driven image viewer for X.:no:no:no
+ffmpeg#4.3.1-1.pkg.tar.xz:13975540:add211d20c4420dd40ef3ecaf6c33636:Complete solution to record, convert and stream audio and video.:no:no:no
+flac#1.3.3-1.pkg.tar.xz:236160:59591d806ff29f6d8b3de7ad757e0dc7:Free Lossless Audio Codec.:no:no:no
+fontconfig#2.13.1-1.pkg.tar.xz:219892:504c61bd2f5b7463c26c3b65c6d95dc2:A library for configuring and customizing font access:no:no:yes
+freeglut#3.2.1-1.pkg.tar.xz:83564:78669e58c82ffce40f60c25e63ee3b44:A free alternative to the OpenGL Utility Toolkit (GLUT) library.:no:no:no
+freetype2#2.10.1-1.pkg.tar.xz:388720:50438906e6dec64a9cbb0e61438f3088:Font rasterization library:no:no:no
+fribidi#1.0.10-1.pkg.tar.xz:61860:a5ad60dfe954c2a498262695a2cb2e52:Unicode Bidirectional (BiDi) Algorithm.:no:no:no
+gdk-pixbuf#2.40.0-1.pkg.tar.xz:176452:59cc90932007e73277890cad251b9eca:An image loading library for GTK+:no:no:no
+giblib#1.2.4-1.pkg.tar.xz:19892:d26c96294d336854c554bdb22235f490:Library for doubly linked lists and a wrapper for imlib2.:no:no:no
+giflib#5.2.1-1.pkg.tar.xz:61156:3badcbcad20c22ba4f53af7ca7e9e2f5:A compressed GIF library compatible with libungif:no:no:no
+girara#0.3.5-1.pkg.tar.xz:44712:13c60633024121f2f509870140f0573c:GIRARA AN INTERFACE LIBRARY:no:no:no
+glew#2.1.0-2.pkg.tar.xz:309900:7fb2f538bfa4842c9ae27823ded0ff86:The OpenGL Extension Wrangler Library.:no:no:no
+glib#2.64.4-1.pkg.tar.xz:1223828:e8c93055f08ebae8dc9e4fcfd8343e94:Low-level data structure handling, portability wrappers, and interfaces for runtime functionality:no:yes:no
+glibmm#2.64.2-1.pkg.tar.xz:1036768:6a9cdd2201b0b8b60d3b803bcf35bed1:C++ interface for the popular glib library.:no:no:no
+glu#9.0.1-1.pkg.tar.xz:202180:e2461bc84e740db05941eba95523fd59:Mesa OpenGL Utility library:no:no:no
+gnutls#3.6.14-1.pkg.tar.xz:1827744:500fad98fc1e50d8ca753406880f1419:A library that provides a secure layer over a reliable transport layer:no:no:no
+gobject-introspection#1.64.1-1.pkg.tar.xz:1170884:5f64befce840bf343e456f2292c9c379:A middleware layer between C libraries (using GObject) and language bindings.:no:no:no
+gtk3#3.24.21-1.pkg.tar.xz:3958508:686f60023ff7d64e3c7d327ccc14696f:A multi-platform toolkit for creating graphical user interfaces:no:yes:no
+gtkmm3#3.24.2-1.pkg.tar.xz:1537344:d76c54a9fa16284f665992580e3f19af:A C++ wrapper for GTK3+:no:no:no
+harfbuzz#2.6.8-1.pkg.tar.xz:486592:13166bf10d9303d0749723eacfc57d08:An OpenType text shaping engine:no:no:no
+i3#4.18.1-1.pkg.tar.xz:244448:ffa40a098bbf07d0bf777a3c9040d008:A tiling window manager (depends only on ports from our ISO):no:no:no
+imlib2#1.6.1-1.pkg.tar.xz:517444:47f4444a4297cdb738e7920a0cb6e70f:A fast image manipulation library:no:no:no
+intltool#0.51.0-1.pkg.tar.xz:36528:b640a86ab6b4650e7acec51141545cd4:An internationalization tool used for extracting translatable strings from source files:no:no:no
+json-c#0.14-1.pkg.tar.xz:56900:1dea788ea7a200501bfff0d7ec368b8b:JSON implementation in C:no:no:no
+lame#3.100-1.pkg.tar.xz:205472:a3bcac06614fb7e6123d626ce5d0f268:MP3 encoder:no:no:no
+lcms2#2.11-1.pkg.tar.xz:216684:433d777d0fb026e191e9bde72704549f:Little CMS intends to be an small-footprint color management engine:no:no:no
+libass#0.14.0-1.pkg.tar.xz:101104:9c4a7c41cda8e5e165a64d461ee2b80c:A portable subtitle renderer for the ASS/SSA (Advanced Substation Alpha/Substation Alpha) subtitle format.:no:no:no
+libcanberra#0.30-3.pkg.tar.xz:53020:adf26242de3f35ff5a739de7edef26dc:A small and lightweight implementation of the XDG Sound Theme Specification:no:no:no
+libcap#2.31-1.pkg.tar.xz:46692:264b33fc7a805a11fad583e7369ec555:Implements the user-space interfaces to the POSIX 1003.1e capabilities available in Linux kernels:no:no:no
+libcroco#0.6.13-2.pkg.tar.xz:126416:72979e7a964969479495f6e13df03f43:Generic Cascading Style Sheet parsing and manipulation toolkit.:no:no:no
+libdrm#2.4.102-1.pkg.tar.xz:172228:9fdfafb08083e56765ec09992cc19d1d:Userspace interface to kernel DRM services:no:no:no
+libepoxy#1.5.4-1.pkg.tar.xz:280704:68a97fcd61f8abfb13f724627e50542b:A library for handling OpenGL function pointer management:no:no:no
+libev#4.33-1.pkg.tar.xz:122584:477781216439a5e11214ef9736f2fbe3:high-performance event loop/event model with lots of features:no:no:no
+libexif#0.6.22-1.pkg.tar.xz:89884:60f8baee43d0605d620b251445c6c5bf:An EXIF tag parsing library:no:no:no
+libgcrypt#1.8.6-1.pkg.tar.xz:433220:5b2158b688a46d1ad7e99dee031e106e:A general purpose cryptographic library based on GnuPG:no:no:no
+libglvnd#1.3.1-1.pkg.tar.xz:348128:3211cecb6d6e5025e174e38d5216dab8:The GL Vendor-Neutral Dispatch library:no:no:no
+libgpg-error#1.38-1.pkg.tar.xz:116424:085e1d136f91e34d587dc19533e341f2:A small library defining error values for GnuPG components:no:no:no
+libid3tag#0.15.1b-1.pkg.tar.xz:37716:f4051e8879d6431e748bfebc5fd71c74:ID3 tag manipulation library:no:no:no
+libidn#1.35-1.pkg.tar.xz:101660:2d892aaf4293515b389297a66142d632:Provides support for IETF Internationalized Domain Names (IDN).:no:no:no
+libinput#1.15.6-1.pkg.tar.xz:193004:597d48d292242a79521a9ebdf0190ec8:library that handles input devices for display servers:no:yes:no
+libjpeg-turbo#2.0.5-1.pkg.tar.xz:240712:11621553ad5ceb25629726023f748125:Library of JPEG support functions.:no:no:no
+libllvm#10.0.0-1.pkg.tar.xz:17334212:f2c2959d18ae129f6a8a49832ef632ed:LLVM compiler backend:no:no:no
+libmad#0.15.1b-4.pkg.tar.xz:63760:dae86c92ff72704baf77b7c7279b2be0:High-quality MPEG Audio Decoder library.:no:no:no
+libmng#2.0.3-2.pkg.tar.xz:195072:73ce364793a6337ca29a5f2c60d9f6a7:libmng - Mutliple Image Network Graphics:no:no:no
+libogg#1.3.4-1.pkg.tar.xz:22572:a9ea1dd5cd4de1aea1cabd9e409c50b8:Ogg bitstream and framing library:no:no:no
+libpcre2#10.35-2.pkg.tar.xz:844544:c5edcf529855ba04780ccdbe94460bcd:Perl Compatible Regular Expressions:no:no:no
+libpng#1.6.37-1.pkg.tar.xz:211848:a0ac06237061311518e4f5ec363ee693:A collection of routines used to create PNG format graphics files:no:no:no
+librsvg#2.40.20-1.pkg.tar.xz:87044:ff32fa1a472f1b1f5f49fb46c68aa396:SVG rendering library with cairo backend:no:yes:yes
+libsdl2#2.0.12-1.pkg.tar.xz:768556:98414cf97bcdbea4204ec4df9dff5aeb:SDL version 2, Simple DirectMedia Layer:no:no:no
+libsigc++#2.10.3-1.pkg.tar.xz:60428:e7611549bcbf3eef841631329f38aa51:A callback framework for C++.:no:no:no
+libsndfile#1.0.28-1.pkg.tar.xz:183364:c883333d1e1f729ce0a263f047c94b19:Library for manipulating sound files.:no:no:no
+libtheora#1.1.1-1.pkg.tar.xz:175336:c4caebf60bf8b36698f9ab0dd7e1944f:A free and open video compression format from the Xiph.org Foundation.:no:no:no
+libtiff#4.1.0-1.pkg.tar.xz:304784:7f25deeaeb1531ff5f9419bcc121b3d4:Library for manipulation of TIFF (Tag Image File Format) images:no:no:no
+libva#2.8.0-1.pkg.tar.xz:138916:688c62ca4c532c5c8b018670609c03a5:Video Acceleration API to enable hardware accelerated video decode/encode.:no:no:yes
+libvdpau#1.4-1.pkg.tar.xz:52064:372defa1896416e4b080f8bdddb2591c:Video Decode and Presentation API for Unix provides a complete solution for decoding, post-processing, compositing, and displaying compressed or uncompressed video streams.:no:no:no
+libvorbis#1.3.7-1.pkg.tar.xz:194716:cfd615805eec3860bfe6c1af6c7b6382:Vorbis codec library:no:no:no
+libvpx#1.8.2-1.pkg.tar.xz:1151428:92a51366614f0fbbd53ce939c80271c6:The VP8/VP9 Codec SDK:no:no:no
+libwebp#1.1.0-1.pkg.tar.xz:293964:a7ace4c6824d06b8b5be4d7dce94a2c5:A library for a new image format comparable to JPEG.:no:no:no
+libxkbcommon#0.10.0-1.pkg.tar.xz:129620:853de5218ab11ad15f1f4f7a7e154143:A library to handle keyboard descriptions.:no:no:no
+llvm#10.0.0-1.pkg.tar.xz:47063944:874129f6ebfa274b344c148d34932a1f:LLVM compiler backend:no:no:no
+mesa-utils#8.4.0-1.pkg.tar.xz:1373376:6637e0b38ea1aac79b53be33630a7527:Mesa 3D Graphics Library Utils:no:no:no
+mesa3d#20.1.3-1.pkg.tar.xz:2921852:e015322c9064f51eeed833cb061e9ad7:Mesa 3D Graphics Library:no:no:yes
+meson#0.55.0-1.pkg.tar.xz:971512:300be963b2a0526e0a81e01c87007f57:High productivity build system.:no:no:no
+mm-common#1.0.1-1.pkg.tar.xz:225840:3824098b29928cd93150a6863f7829ef:Common build files of the C++ bindings.:no:no:no
+mtdev#1.1.6-1.pkg.tar.xz:15480:fd742d3c99155d5093de5a85df284cf6:Kernel multi-touch transformation library:no:no:no
+nettle#3.6-1.pkg.tar.xz:349292:02afd0984b8e4529bb6a25c973c95c0c:Low-level cryptographic library:no:no:no
+opus#1.3.1-1.pkg.tar.xz:245420:c03de43182b1c1741988ff1704aaaddd:Codec designed for interactive speech and audio transmission over the Internet.:no:no:no
+pango#1.44.7-1.pkg.tar.xz:275800:cae98d693f1df9fd7655d41b86ac02ac:A library for layout and rendering of text:no:no:no
+pangomm#2.42.1-1.pkg.tar.xz:106444:00ab2392e8e4beb613541ec465755940:C++ interface to pango.:no:no:no
+pavucontrol#4.0-1.pkg.tar.xz:69076:1ca288de341556c5ad71c071a69c4e6d:PulseAudio Volume Control:no:no:no
+poppler#0.90.0-1.pkg.tar.xz:1037140:5ce4b9585efef9965d684033e4064597:PDF rendering library based on xpdf 3.0:no:no:no
+poppler-data#0.4.9-1.pkg.tar.xz:1501300:336caf630fcecaf4b0e4ca45c8c7fda6:Poppler encoding data:no:no:no
+poppler-glib#0.90.0-1.pkg.tar.xz:148956:fe5dcf603156ae156771c1e9be5c704c:glib wrapper for poppler:no:no:no
+pulseaudio#13.0-1.pkg.tar.xz:1012096:8e4a1000e2a6dcb8cdb791abbc2be212:A sound system for POSIX OSes:no:yes:yes
+python3-mako#1.1.3-1.pkg.tar.xz:113524:715a4a9a3340b3fcf1b23debfd34ae4a:A template library written in Python.:no:no:no
+python3-setuptools#49.2.0-1.pkg.tar.xz:660532:70a046b1f58a4784c306f22e70942710:Easily download, build, install, upgrade, and uninstall Python packages.:no:no:no
+sdl2_ttf#2.0.15-1.pkg.tar.xz:16804:fc7c8f3f1362b6c7f006713b9316af6e:TrueType library for libsdl.:no:no:no
+shared-mime-info#1.10-1.pkg.tar.xz:448248:f0a3b06284eb0a4e16fb9b968f2f9bf0:core database of common types:no:yes:yes
+sqlite3#3.32.3-1.pkg.tar.xz:1011996:eda48a16c9b179632d684623ec655444:SQL database engine:no:no:no
+sxiv#26-1.pkg.tar.xz:28724:5b9b160fbbff500b3e19959d215d5acf:simple/suckless image-viewer:no:no:yes
+x264#148.20160808-2.pkg.tar.xz:413944:7bd2cea5902e804b82fcb16aae5dc9d9:Library for encoding H264/AVC video streams (snapshot).:no:no:no
+xclip#0.13-1.pkg.tar.xz:11080:526fb2bc4439218f623ffaaf2a50afbc:A command line interface to the X11 clipboard:no:no:no
+xkeyboard-config#2.30-1.pkg.tar.xz:339144:0939f0ccc1bcd0c28bf25ebce9192580:X keyboard configuration database:no:no:no
+xorg-bdftopcf#1.1-1.pkg.tar.xz:17120:d8c815d70ac5a9d79fbb1a3e737a0ee5:BDF to PCF font file converter:no:no:no
+xorg-font-alias#1.0.3-1.pkg.tar.xz:2200:1f086f9e524eb8aa5683a2d387b76973:xorg font font-alias:no:no:no
+xorg-font-bitstream-100dpi#1.0.3-1.pkg.tar.xz:160360:745272c83b4812a6f8d7228d8556c505:xorg font font-bitstream-100dpi:no:yes:no
+xorg-font-bitstream-type1#1.0.3-1.pkg.tar.xz:300032:d9dfc76ba96dd3712aee65475a805b2b:xorg font font-bitstream-type1:no:yes:no
+xorg-font-bitstream-vera#1.10-3.pkg.tar.xz:214056:1b7529bd0f125bcade0c61ed08b725af:xorg font bitstream vera:no:no:no
+xorg-font-dejavu-ttf#2.37-1.pkg.tar.xz:2474704:a0a4b191ebc734595a2cbb01a1416221:A font family based on the Bitstream Vera Fonts:no:yes:no
+xorg-font-misc-misc#1.1.2-1.pkg.tar.xz:3510400:521417d2691917388ae40b563e854c6d:xorg font font-misc-misc:no:yes:no
+xorg-font-util#1.3.2-1.pkg.tar.xz:23912:1dbc5c3b70208e33dc18e0d94458ea67:Font package creation/installation utilities:no:no:no
+xorg-libdmx#1.1.4-1.pkg.tar.xz:32288:3ab0a08c3caed3f7c6c5f8af0c6c904a:xorg lib libdmx:no:no:no
+xorg-libevdev#1.9.0-1.pkg.tar.xz:61464:b9e9e79a7f461dca9758d8de18f47d46:Wrapper library for evdev devices:no:no:no
+xorg-libfontenc#1.1.4-1.pkg.tar.xz:14584:24b1287c4379cbaff8f89d888a438453:xorg lib libfontenc:no:no:no
+xorg-libice#1.0.10-1.pkg.tar.xz:52248:47e80ec06bc47f79c04c40abe642c83e:xorg lib libICE:no:no:no
+xorg-libpciaccess#0.16-1.pkg.tar.xz:20464:e1add223321ea4167e084d5d9c3cc201:Generic PCI access library:no:no:no
+xorg-libpixman#0.40.0-1.pkg.tar.xz:198516:102e9794a957dfb296830f13eb781c9c:Pixel manipulation library:no:no:no
+xorg-libsm#1.2.3-1.pkg.tar.xz:18816:1830800c035e5692ddf3f579f5c7c5d2:X Session Management client library:no:no:no
+xorg-libx11#1.6.12-1.pkg.tar.xz:1527884:e8d1ce0b9e302af49d4318313e71de82:X client library:no:no:no
+xorg-libxau#1.0.9-1.pkg.tar.xz:9068:360d626f257548bd5e5888f31ebd9871:X Authorization routines:no:no:no
+xorg-libxaw#1.0.13-2.pkg.tar.xz:301232:53a93ae4396ae2a049673d5b5641d36e:X Athena Widgets toolkit:no:no:no
+xorg-libxcb#1.14-1.pkg.tar.xz:331496:35cafae3af67a38644d029b485f0d032:X11 client-side library:no:no:no
+xorg-libxcomposite#0.4.5-1.pkg.tar.xz:8912:006501a1b3bffa6b8fd529415bd20898:X Composite extension client library:no:no:no
+xorg-libxcursor#1.2.0-1.pkg.tar.xz:27940:345afa4619dfb11648a2f0e48fcffae2:X cursor management library:no:no:no
+xorg-libxdamage#1.1.5-1.pkg.tar.xz:4640:88ab3c74413df1384ecd832a1b78e112:X Damage extension client library:no:no:no
+xorg-libxdmcp#1.1.3-1.pkg.tar.xz:10880:8128218b24d818901d175ae6ba118d62:xorg lib libXdmcp:no:no:no
+xorg-libxext#1.3.4-1.pkg.tar.xz:83088:5c6f75c68834a051ef1507fe68b4e0c3:Common X extensions client library:no:no:no
+xorg-libxfixes#5.0.3-1.pkg.tar.xz:10528:47a1f24f80626130ab8646e03258362c:X Fixes extension client library:no:no:no
+xorg-libxfont2#2.0.4-1.pkg.tar.xz:128136:49dde1d87729a73c85d2f2cd0be35367:X font handling library version 2 for server & utilities:no:no:no
+xorg-libxft#2.3.3-1.pkg.tar.xz:49108:f77a6cbcd045764b387786014d96696f:X font rendering client library:no:no:no
+xorg-libxi#1.7.10-1.pkg.tar.xz:110508:026d3404ffcd5e00c325d4220de79499:X Input client library:no:no:no
+xorg-libxinerama#1.1.4-1.pkg.tar.xz:7212:73f806216ba3a7714bcc705b3f2cd824:X Xinerama client library:no:no:no
+xorg-libxkbfile#1.1.0-1.pkg.tar.xz:89420:4b41df24f8107ead9d70a9cc6ec500a1:xorg lib libxkbfile:no:no:no
+xorg-libxmu#1.1.3-1.pkg.tar.xz:65868:3c52f8002ab06343075b85feb54497fd:xorg lib libXmu:no:no:no
+xorg-libxpm#3.5.13-1.pkg.tar.xz:51944:4415a459258bf71714adf422e07cc43b:xorg lib libXpm:no:no:no
+xorg-libxrandr#1.5.2-1.pkg.tar.xz:24976:8848e2d290658d50f0f7dbd092d927ef:X Resize and Rotate extension client library:no:no:no
+xorg-libxrender#0.9.10-1.pkg.tar.xz:18092:b4817c0f16a6e4a320203f402bd15e25:X Render extension client library:no:no:no
+xorg-libxres#1.2.0-1.pkg.tar.xz:7256:4fd837994c91df7a3beb04e4676951aa:X Resource extension client library:no:no:no
+xorg-libxshmfence#1.3-1.pkg.tar.xz:3456:4af3c5f5b74c0db1e8cba7d3ca759a1b:X shared memory fences:no:no:no
+xorg-libxt#1.2.0-1.pkg.tar.xz:400700:ae2224cf4997a30fe073263826d450a3:X11 toolkit intrinsics library:no:no:no
+xorg-libxtst#1.2.3-1.pkg.tar.xz:14880:f887ff15d20c21747b312d098ddf9d1a:X11 Testing resource extension library:no:no:no
+xorg-libxxf86dga#1.1.5-1.pkg.tar.xz:15944:68cf81ca5c413bdb8baab44757069990:X11 Direct Graphics Access extension library:no:no:no
+xorg-libxxf86vm#1.1.4-2.pkg.tar.xz:13392:fe05bd70707ea94caeb4bd47a341457a:X11 XFree86 video mode extension library:no:no:no
+xorg-mkfontscale#1.2.1-1.pkg.tar.xz:15780:098c75efce22a3eb0e973123b3770894:Create an index of scalable X font files:no:no:no
+xorg-rgb#1.0.6-2.pkg.tar.xz:7116:d08d45fcae0901115da8454b61d1d91f:X Window System RGB database:no:no:no
+xorg-server#1.20.8-1.pkg.tar.xz:1391652:348c83f4eb8439c834bba8a77cd12c10:X Window System server:no:no:yes
+xorg-setxkbmap#1.3.2-1.pkg.tar.xz:9068:8592be3aa45df2398070a68f9d993754:Set the keyboard using the X Keyboard Extension:no:no:no
+xorg-util-macros#1.19.2-1.pkg.tar.xz:20844:f522fe7a58287eea1b7fb6a88cc9977e:xorg m4 macros:no:no:no
+xorg-xauth#1.1-1.pkg.tar.xz:16824:700414966a2a3328bd84fd19295d9427:X authority file utility:no:no:no
+xorg-xcb-proto#1.14-1.pkg.tar.xz:101892:9261fb1bdb13964bad95417175591063:XCB X protocol descriptions:no:no:no
+xorg-xcb-util#0.4.0-1.pkg.tar.xz:9016:9b194a3c5c2cadac23178afe7d3e006a:XCB utilities library:no:no:no
+xorg-xcb-util-cursor#0.1.3-1.pkg.tar.xz:10944:1609d8bae04b4c71eadd7c83dd7db6d9:XCB utilities library:no:no:no
+xorg-xcb-util-image#0.4.0-1.pkg.tar.xz:15440:b87d84cd8bc7e37a5c2cb7ce1badece0:XCB utilities library:no:no:no
+xorg-xcb-util-keysyms#0.4.0-1.pkg.tar.xz:4324:77e961bb548746c8494eeb81348a1018:XCB utilities library:no:no:no
+xorg-xcb-util-renderutil#0.3.9-1.pkg.tar.xz:6680:9eb025185631e3d10bbfc6da5d83d5b9:XCB utilities library:no:no:no
+xorg-xcb-util-wm#0.4.1-1.pkg.tar.xz:30708:dfccf2eb79535ab23d788190cd8f06c9:XCB utilities library:no:no:no
+xorg-xdriinfo#1.0.6-1.pkg.tar.xz:3364:c9b8d956c7df74a5aec0f830c98cf1a8:Query configuration information of DRI drivers:no:no:no
+xorg-xev#1.2.3-1.pkg.tar.xz:9972:a4cde3a52e08ca0159dfb9dbd73118da:Print contents of X events:no:no:no
+xorg-xf86-input-keyboard#1.9.0-1.pkg.tar.xz:7972:47481463d8fb8f4e1a237d4fc73249ee:xorg driver xf86-input-keyboard:no:no:no
+xorg-xf86-input-libinput#0.30.0-1.pkg.tar.xz:29540:031882be243fecbd7666ed8939d4bf7e:X driver based on libinput:no:no:no
+xorg-xf86-input-mouse#1.9.3-1.pkg.tar.xz:21344:7b7730eb20df95454849025b08423c2c:xorg driver xf86-input-mouse:no:no:no
+xorg-xf86-video-fbdev#0.5.0-1.pkg.tar.xz:8088:ee17db73187b2f00f9b10209d140b779:xorg driver xf86-video-fbdev:no:no:no
+xorg-xf86-video-vesa#2.4.0-1.pkg.tar.xz:9608:181a089a81fa2addd22da9c0fdf8137d:unaccelerated VESA display driver:no:no:no
+xorg-xhost#1.0.8-1.pkg.tar.xz:7812:2e51181ef4fa2526e798c5fe21df8739:x server access control program:no:no:no
+xorg-xinit#1.4.1-1.pkg.tar.xz:12660:6218ed1c1d928576c91d90f9cf0e3067:X Window System initializer:no:no:no
+xorg-xinput#1.6.3-1.pkg.tar.xz:19244:e5bd3574c098e5c5df450dc6c39ba6fa:Utility to configure and test XInput devices:no:no:no
+xorg-xkbcomp#1.4.3-1.pkg.tar.xz:63672:da5193fb0568fde8f299393fc67570f3:xorg XKB keyboard description compiler:no:no:no
+xorg-xmodmap#1.0.10-1.pkg.tar.xz:16016:51fb772607cb6d7f4b1a712b4ac90a32:Tool for modifying keymaps and pointer button mappings in X:no:no:no
+xorg-xorgproto#2020.1-1.pkg.tar.xz:181732:c3de828587208ad7b0f698ff6ab5048f:Headers defining the core protocol and extensions for the X Window System:no:no:no
+xorg-xrandr#1.5.1-1.pkg.tar.xz:33080:f3754ce2488ccba10f1c48d5f44a7c82:Resize and rotate utility for X:no:no:no
+xorg-xrdb#1.2.0-1.pkg.tar.xz:14192:a522c00be04480f7eefebecf8ef8e891:x server resource database utility:no:no:no
+xorg-xset#1.2.4-2.pkg.tar.xz:15068:e2bff451f1341ffa323a1f229ef6b827:User preference utility for X:no:no:no
+xorg-xtrans#1.4.0-1.pkg.tar.xz:34796:05138a9f59fdc218dc814911b5a0da4f:Library of code to handle network protocol transport:no:no:no
+xsel#1.2.0+git062e6d3-1.pkg.tar.xz:12600:1591c91df3be8b5a943ea241bf5b58b2:Command-line program for getting and setting the contents of the X selection:no:no:no
+xterm#357-1.pkg.tar.xz:297828:d4d2905834cde7583143f44b4e55c90d:Termulator emulator for X Windows:no:no:no
+yasm#1.3.0-2.pkg.tar.xz:393780:919a8a1f2bd440134f93cbd9d0edc163:A complete rewrite of the NASM assembler under the new BSD License:no:no:no
+zathura#0.4.6-1.pkg.tar.xz:97096:11dcf56883903147987bffe55fa4c06b:Zathura a document viewer:no:no:no
