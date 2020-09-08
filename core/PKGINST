@@ -1,0 +1,26 @@
+
+#!/bin/bash
+#
+# PKGINST: pre-post install scripts for CRUX packages
+eudev_post_install() {
+#!/bin/sh
+
+udevadm hwdb --update
+}
+
+linux_post_install() {
+#!/bin/sh
+
+echo "POST"
+}
+
+shadow_post_install() {
+#!/bin/sh
+
+pwconv
+grpconv
+}
+
+
+
+if [ ! -z "$1" ]; then $1; fi

@@ -1,0 +1,100 @@
+acl#2.2.53-1.pkg.tar.xz:93044:93944f9aab164c84329e27c67ae856d4:Utilities to administer Access Control Lists, which are used to define more fine-grained discretionary access rights for files and directories:no:no:no
+apparmor-lib#2.13.4-1.pkg.tar.xz:94096:65de758fe90ce963a8d869e95350702d:Apparmor libs:no:no:no
+apparmor-profiles#2.13.4-1.pkg.tar.xz:49612:6ff815786b81d463481952c782378aae:Apparmor default profiles:no:no:no
+apparmor-utils#2.13.4-1.pkg.tar.xz:550720:15f8c1a1b617356bd56f338803dbbbe8:Apparmor utils:no:no:no
+attr#2.4.48-1.pkg.tar.xz:36020:f84840921585db9a4a5bb479c8f1c603:Utilities to administer the extended attributes on filesystem objects:no:no:no
+autoconf#2.69-1.pkg.tar.xz:663256:07065f18497c915b1fe6d786fee9d719:Programs for producing shell scripts that can automatically configure source code:no:no:no
+automake#1.16.1-1.pkg.tar.xz:517280:9dae662491a94437f7dece2a1a9d85aa:Programs for generating Makefiles for use with Autoconf:no:no:no
+bash#5.0-1.pkg.tar.xz:545408:611dd3815f89b38e121d22cca0872c52:The Bourne-Again SHell:no:no:no
+bc#2.5.3-1.pkg.tar.xz:68528:62e3f2cee320aca6fad6b0be7b0e93ac:An arbitrary precision numeric processing language:no:no:no
+bindutils#9.14.12-1.pkg.tar.xz:874304:1dc7267872b23d6194695a898ec00155:Bind tools:no:no:no
+binutils#2.34-1.pkg.tar.xz:2961960:9f28d1a23bd17a7a4853dfa57a234ab8:A linker, an assembler, and other tools for handling object files:no:no:no
+bison#3.5.2-1.pkg.tar.xz:420848:247f3ea3ae21a72acfd97e8946e71bdb:A parser generator:no:no:no
+bootfiles#0.2-1.pkg.tar.xz:5002344:6f1379efbb4e95d8828520de8da84392:Files raspbian uses to boot linux kernel:no:no:no
+bridge-utils#1.7-1.pkg.tar.xz:12200:28ab1a29403ad64717a891453246a9f5:Linux IEEE 802.1d ethernet bridging utilities:no:no:no
+bzip2#1.0.8-1.pkg.tar.xz:58264:2a8742f30ec2c89fc3a11f984c6806c3:Programs for compressing and decompressing files:no:no:no
+ca-certificates#20170514-1.pkg.tar.xz:587996:d77978a89db1ab88982676e56039b292:Certificate Authority certificates:no:no:no
+cmake#3.17.3-1.pkg.tar.xz:4514812:83f453615ee8b375f717d90a560fc186:A cross-platform, open-source make system.:no:no:no
+coreutils#8.31-1.pkg.tar.xz:994528:385d82a1ad341c04ad44a5c6fa374ae7:Utilities for showing and setting the basic system characteristics:no:no:no
+cryptsetup#2.3.3-1.pkg.tar.xz:264260:caf540d42a9635a38c63752b73f2b065:User-friendly dm-crypt/LUKS interface:no:no:no
+curl#7.71.0-1.pkg.tar.xz:968852:7eaa641112cebc9247fde1879276c6f5:Utility and a library used for transferring files:no:no:no
+dash#0.5.11.1-1.pkg.tar.xz:60476:e45897a4b5d74c0cdf66a358e51b9917:The Almquist shell, a POSIX-compliant /bin/sh implementation:no:no:no
+diffutils#3.7-1.pkg.tar.xz:152588:57f7283ee8d9d069a534fc8c9c655d4e:Programs that show the differences between files or directories:no:no:no
+dosfstools#4.1-1.pkg.tar.xz:42388:daf1796087e8fa5c045536364e1022db:Various utilities for use with the FAT family of file systems:no:no:no
+e2fsprogs#1.45.5-1.pkg.tar.xz:621176:4356aaeba41ba19e8c328afcc2d4587b:utilities for handling the ext2, ext3 and ext4 file system:no:no:no
+elfutils#0.178-1.pkg.tar.xz:669764:d959cca314976cf8ea5bf9c81b05f8cf:utilities and libraries for handling ELF files:no:no:no
+eudev#3.2.9-1.pkg.tar.xz:979624:b5bf49e3f5a58f96b2397617d7e5aad8:Programs for dynamic creation of device nodes:no:yes:no
+expat#2.2.9-1.pkg.tar.xz:60860:945441ae804aacb3f3e5400152160d29:A stream oriented C library for parsing XML:no:no:no
+file#5.38-1.pkg.tar.xz:296932:21d55e23cf7c609e2e43a3439df241ea:Utility for determining the type of a given file or files:no:no:no
+filesystem#1-1.pkg.tar.xz:4544:4f99a0081f5215ab6e3f59a3af051c2d:Skeleton filesystem package:no:no:no
+findutils#4.7.0-1.pkg.tar.xz:282684:d4bb33e43e755eea793d6ae1dfba4dcc:Programs to find files:no:no:no
+flex#2.6.4-1.pkg.tar.xz:193620:37e8b29898744831fd9d490a86cf1357:Utility for generating programs that recognize patterns in text:no:no:no
+gawk#5.0.1-1.pkg.tar.xz:848952:3ef2eba6a330e84f3dd8c2e66adc0edb:Programs for manipulating text files:no:no:no
+gcc#10.1.0-1.pkg.tar.xz:30073288:15b6a56b34fd97e8540cd783b88661b3:The GNU compiler collection, which includes the C and C++ compilers:no:no:no
+gdbm#1.18.1-1.pkg.tar.xz:108336:6653f8152a2a7fda6b35e11a6a314ae8:The GNU Database Manager:no:no:no
+gettext#0.20.1-1.pkg.tar.xz:1531592:8367d7588f95dd2a952e9b87a9fb6d10:Utilities for internationalization and localization:no:no:no
+glibc#2.31-1.pkg.tar.xz:8779308:04153627576b8171a550c282ad8f1f3e:The main C library:no:no:no
+gmp#6.2.0-1.pkg.tar.xz:332772:3d6864ae7daa740f54be095f1beade63:Contains math libraries that useful functions for arbitrary precision arithmetic:no:no:no
+gperf#3.1-1.pkg.tar.xz:64220:3a0a6ad069d3ccfc0cdf265746d843bb:Generates a perfect hash function from a key set:no:no:no
+grep#3.4-1.pkg.tar.xz:118700:f6013ac5e84534b4580efdf6f5bbb175:Programs for searching through files:no:no:no
+groff#1.22.4-1.pkg.tar.xz:1828316:8fb684cd1cc59f16031fa7adaadcca58:Programs for processing and formatting text:no:no:no
+gzip#1.10-1.pkg.tar.xz:65252:36de5cb33e743e108ae295a63b7c096e:Programs for compressing and decompressing files:no:no:no
+iana-etc#2.30-1.pkg.tar.xz:177968:2d5eb1ea20d276d5cfaaaa5b74fffa43:Provides data for network services and protocols:no:no:no
+inetutils#1.9.4-1.pkg.tar.xz:198676:2ac93cefeb7b149773c08ca67e617dd7:Programs for basic networking:no:no:no
+iproute2#5.5.0-1.pkg.tar.xz:658328:7a452f1326db2e32de88c50df3f1f61e:Programs for basic and advanced IPV4-based networking:no:no:no
+iptables#1.6.0-1.pkg.tar.xz:215308:d81e61a5793661a6960eadddde3f2afa:A Linux kernel packet filter control tool:no:no:no
+json-c#0.14-1.pkg.tar.xz:56928:b66d6cc60904f91a68c77b6fd23ddb1a:JSON implementation in C:no:no:no
+kbd#2.2.0-1.pkg.tar.xz:984212:3969aec78101bd970a90d8cd9df893eb:Key-table files, console fonts, and keyboard utilities:no:no:no
+kmod#26-1.pkg.tar.xz:75344:ba33b03cbbb0219a6b39ccf9d569e189:Libraries and utilities for loading kernel modules:no:no:no
+less#551-1.pkg.tar.xz:85380:a4af15a39523f0d0e798b5ee4bdda1e0:A text file viewer:no:no:no
+lfs-bootscripts#20191031-1.pkg.tar.xz:22540:94328b504bb0eaf6a0eb0fd5543cf6cd:A set of scripts to start/stop the LFS system at bootup/shutdown:no:no:no
+libarchive#3.4.3-1.pkg.tar.xz:425868:b37d109d30af8982f4cedbfcfb0be024:Reading/writing various compression formats:no:no:no
+libdevmapper#1.02.170-1.pkg.tar.xz:224572:7cf04feaa6f4ea2451ea785303556803:Device mapper userspace library:no:no:no
+libevent#2.1.11-1.pkg.tar.xz:214364:e1dc9f94e47e60c9ee297a7694b06921:Asynchronous event notification software library:no:no:no
+libffi#3.3-1.pkg.tar.xz:30148:712377cc777441ba9c21d69866cec3e5:Portable foreign function interface library:no:no:no
+libpcre#8.44-1.pkg.tar.xz:461228:159b8d1a6ec3bfa1581f06129137bf2a:Perl Compatible Regular Expressions:no:no:no
+libtasn1#4.16.0-1.pkg.tar.xz:92288:6cf66f5e8ebe84640b045e9496988352:The ASN.1 library used by GnuTLS and others:no:no:no
+libtool#2.4.6-1.pkg.tar.xz:403156:8d0213ea96cdeb494ebee8d665182dfa:The GNU generic library support script:no:no:no
+libusb#1.0.23-1.pkg.tar.xz:70124:e86542bb5d0801794d5e46eb02a94f28:Library giving userland programs access to USB devices:no:no:no
+linux#4.19.127-rpiseca-2.pkg.tar.xz:18479800:367723e3a06507b2096d305886ebaa54:Linux kernel, sources and modules:no:yes:no
+linux-api-headers#4.19.127-rpiseca-1.pkg.tar.xz:977480:efcb874782a95d554cb5c07e523937fd:Kernel api headers:no:no:no
+lzo#2.10-1.pkg.tar.xz:60028:b37f04e89ef6a2477353f296fc768c17:A portable lossless data compression library:no:no:no
+m4#1.4.18-1.pkg.tar.xz:149364:940354ea9297ff35b5a9e3a88c7876b0:The GNU macro processor:no:no:no
+make#4.3-1.pkg.tar.xz:254904:6d1de5f5891f0093d813225e39543386:Program for compiling packages:no:no:no
+mpc#1.1.0-1.pkg.tar.xz:50596:3f7379919bc008f8016def784b066707:A library for the arithmetic of complex numbers with arbitrarily high precision and correct rounding of the result:no:no:no
+mpfr#4.0.2-1.pkg.tar.xz:209896:ae4bb933b94c9bec83a3711c7030335d:Functions for multiple precision math:no:no:no
+ncurses#6.2-1.pkg.tar.xz:1015220:0fa80b07e945ba41a37028c243acfcdb:Libraries for terminal-independent handling of character screens:no:no:no
+net-tools#1.60-1.pkg.tar.xz:70292:40c8285492c8a3df98bb522b5a3647d1:Programs for basic networking:no:no:no
+openssh#8.3p1-1.pkg.tar.xz:682800:ef7dae012fbbf4e5b33e978ee54c88d6:Secure SHell server and client tools:no:no:no
+openssl#1.1.1g-1.pkg.tar.xz:3222516:95b48dd51cef252f03b47e759b719d48:Management tools and libraries relating to cryptography:no:no:no
+p11-kit#0.23.20-1.pkg.tar.xz:315084:d4bcde29a30bad88bd175980bb715d5e:Provides a way to load and enumerate PKCS #11 (a Cryptographic Token Interface Standard) modules:no:no:no
+patch#2.7.6-1.pkg.tar.xz:81060:a1ffcd093e1b4c0b82cd28b11c59ac8d:A program for modifying or creating files by applying a “patch” file typically created by the diff program:no:no:no
+perl#5.30.1-1.pkg.tar.xz:13748020:d19e73a73179f7c92bb1e7af183b0670:The Practical Extraction and Report Language:no:no:no
+perl-xml-parser#2.46-1.pkg.tar.xz:139532:ba914498a226bbad18ebbc8f8e5948db:Expat-based XML parser module for perl:no:no:no
+pkg-config#0.29.2-1.pkg.tar.xz:147824:2f8de37a5e4d399f0d169f345ad73383:A tool for passing the include path and/or library paths to build tools during the configure and make file execution:no:no:no
+pkg-get#0.4.6-2.pkg.tar.xz:11704:dcd16d6f23c1ef0a520ab0ac17d8996d:Package management tool for CRUX Linux:no:no:yes
+pkgutils#5.40.7-1.pkg.tar.xz:44556:176c074a32c4c9f7b91e5695df4bc35b:A set of utilities to manage software packages:no:no:no
+popt#1.18-1.pkg.tar.xz:32588:03502baf15ba6bdeddc08f306e1465ef:commandline option parser:no:no:no
+procps-ng#3.3.15-1.pkg.tar.xz:205068:8ea4b5a49a8a71ee34c96e09eade1775:Programs for monitoring processes:no:no:no
+prt-get#5.19.3-1.pkg.tar.xz:76628:e8faaa57a296a9dba8ff76abd795ebd1:A utility to simplify ports searching/installing:no:no:no
+psmisc#23.2-1.pkg.tar.xz:39436:b0c63c862924cce797443f551a09e1a9:Programs for displaying information about running processes:no:no:no
+python3#3.8.1-1.pkg.tar.xz:10374172:f91ded951e9e4a4e73c81ce9413f3b70:Next generation of the python high-level scripting language:no:no:no
+readline#8.0-1.pkg.tar.xz:331056:19025c8b84c4e505ba3784877eba20b2:Set of libraries that offers command-line editing and history capabilities:no:no:no
+sed#4.8-1.pkg.tar.xz:122320:eff850804458966fecfa4feaa395bfe0:GNU stream editor:no:no:no
+shadow#4.8.1-1.pkg.tar.xz:254440:119bfa567cb2371f32e1cbc1de2253ed:Programs for handling passwords in a secure way:no:yes:no
+swig#4.0.2-1.pkg.tar.xz:864532:e6d6356d75b89662ff0064eb251417c0:A tool to create language bindings:no:no:no
+sysfsutils#2.1.0-2.pkg.tar.xz:28744:2e64626a40c9b034088a9f4f320d9f21:System Utilities Based on Sysfs:no:no:no
+sysklogd#1.5.1-1.pkg.tar.xz:38776:7cea173c5dfa3c9abaa00c474991c841:Logging system messages, such as those given by the kernel:no:no:no
+sysvinit#2.96-1.pkg.tar.xz:60612:f8270b4454b35954403e0654d77cd5b0:programs for controlling the startup, running, and shutdown of the system:no:no:no
+tar#1.32-1.pkg.tar.xz:376872:b3eb64042a70c32869edd7145a83a726:An archiving program:no:no:no
+texinfo#6.7-1.pkg.tar.xz:932504:7a32a2d80ba42e11fd323b9cf07fac50:Programs for reading, writing, and converting info pages:no:no:no
+time#1.9-1.pkg.tar.xz:6792:f1972219fd3feb29a69032cd5e4dacd1:Measures many of the CPU resources that programs use:no:no:no
+tzdata#2019c-1.pkg.tar.xz:118496:294f9712fb3fdc58ed79b00b36bb6937:Sources for time zone and daylight saving time data:no:no:no
+usbutils#012-1.pkg.tar.xz:226484:a3f0b49b4b02f64b44a778cbb7178ad4:pciutils-like utilities for USB:no:no:no
+util-linux#2.35.1-1.pkg.tar.xz:1110292:22c302fcd441923bfed8df91631478f3:Utilities for handling file systems, consoles, partitions, and messages:no:no:no
+vim#8.2.0190-1.pkg.tar.xz:6537032:46b4fa5abb6e6fed59b5ced6dc424d06:Vi Improved, a highly configurable, improved version of the vi text editor:no:no:no
+wget#1.20.3-1.pkg.tar.xz:276520:b8b4d81350e6cee26e6b706f943dc146:Utility useful for non-interactive downloading of files from the Web:no:no:no
+which#2.21-1.pkg.tar.xz:11320:878e7752de31be0f24b91445f0f40175:A utility to show the full path of commands:no:no:no
+xz#5.2.4-1.pkg.tar.xz:152916:605917ce698954b2fe73c20d922b4db3:Programs for compressing and decompressing files:no:no:no
+zlib#1.2.11-1.pkg.tar.xz:77552:2c2d368f0cc4911acb784575d4c1d930:Compression and decompression routines used by some programs:no:no:no
+zstd#1.4.5-1.pkg.tar.xz:505152:6776a893a4c563908ed438b75f4968e1:Real-time compression with high compression ratios.:no:no:no
