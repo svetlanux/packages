@@ -20,4 +20,28 @@ pkgdir          /var/lib/pkg/xorg|https://svetlanux.github.io/packages/xorg/
 pkgdir          /var/lib/pkg/pkg|https://svetlanux.github.io/packages/pkg/ 
 ```
 
-P.S Always check checksum. The GPG fingerprint is: `746C80706C9696F326BCE993D901EF18FA491208`
+## Security
+
+I don't trust thirdparties, therefore I highly recommend to check `sha256` sums of all files as well as gpg signatures.
+Every folder has its own `files.sum.gpg` file that you have to use for verification using:
+
+```
+gpg --verify files.sum.gpg
+```
+
+Just compare its fingerprint with this:
+`746C80706C9696F326BCE993D901EF18FA491208`
+
+Then extract it using:
+```
+gpg --decrypt files.sum.gpg > files.sum
+```
+
+It will override exsting `files.sum` with signed one , and then, as usual run filesystem check.
+
+```
+sha256sum -c files.sum
+```
+
+And watch the sequence of `OK`'s.
+And remember - don't trust github, never, it belongs to m$.
